@@ -93,12 +93,31 @@ body {
     background-image: url(../img/oliveBackground.jpg);
 
 }
-/* 
+
 .containerMan{
 
 
   display: grid;
   grid-template-columns: auto auto auto;
+  margin-left: 50px;
+  
+  
 
 
-} */
+} 
+
+
+#ConnectCenter {
+
+
+  text-align: center;
+}
+
+
+#socialLogo{
+
+
+      height: 40px;
+      width: 40px;
+
+}
